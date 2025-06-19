@@ -1,5 +1,7 @@
 streamlit==1.35.0
 tensorflow==2.18.0
-spacy==3.8.7
-pandas==2.2.2
 scikit-learn==1.4.2
+pandas==2.2.2
+spacy==3.8.7
+https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.5.0/fr_core_news_sm-3.5.0-py3-none-any.whl
+
